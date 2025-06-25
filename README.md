@@ -1,6 +1,8 @@
 # prueba_01
-- No Automatizar 
-
+- No Automatizar
+$${\color{red}Red}$$
+$${\color{blue}Blue}$$
+$\color{green}{test}$
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
