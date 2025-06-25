@@ -1,4 +1,6 @@
 # prueba_01
+## - No Automatizar 
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
